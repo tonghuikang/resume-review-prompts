@@ -24,6 +24,8 @@ This is the prompt behind [xyzFormatter](https://poe.com/xyzFormatter) on Poe.
 
 This is an example of a conversation.
 
+- https://poe.com/huikang/1512927999938167
+
 For full resume advice from me, please refer to https://advice.huikang.dev
 
 Hope this helps!
